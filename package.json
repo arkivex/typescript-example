@@ -1,0 +1,21 @@
+{
+  "name": "arkivex-getting-started",
+  "version": "1.0.0",
+  "description": "How to use Arkivex Typescript client",
+  "main": "dist/app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkivex/typescript-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arkivex/typescript-example/issues"
+  },
+  "homepage": "https://github.com/arkivex/typescript-example#readme",
+  "devDependencies": {
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3",
+    "@dataplatformsolutions/arkivex": "0.9.1"
+  }
+}
